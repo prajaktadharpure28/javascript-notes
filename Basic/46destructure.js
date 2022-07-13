@@ -9,7 +9,7 @@
 const MyUser = {
     name: "praju",
     courseCount: 5,
-    role:"admin",
+    role: "admin",
 };
 
 console.log(MyUser.courseCount);
